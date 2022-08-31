@@ -124,6 +124,20 @@ nav {
     display: block;
 }
 /** Content */
+#accordionExample{
+    margin: 5%;
+}
+.card p{
+    padding-bottom: 2%;
+}
+.accordion p{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.accordion h3{
+    padding-left: 12%;
+    padding-right: 12%;
+}
 #userPersona{
     width: 60%;
     height: auto;
@@ -160,11 +174,11 @@ nav {
     display: block;
     padding-top: 4%;
 }
-.content h1{
+.end h1{
     padding-top: 2%;
     text-align: center;
 }
-.content p{
+.end p{
     padding: 2%;
     text-align: center;
 }
