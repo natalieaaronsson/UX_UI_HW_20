@@ -154,6 +154,13 @@ nav {
     margin: auto;
     display: block;
 }
+#conclusion{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding-top: 2%;
+}
 /** Footer */
 
 footer {
