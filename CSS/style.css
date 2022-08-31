@@ -12,8 +12,8 @@
 
 /** General Text Stuff*/
 p{
-    text-align: center;
-    padding: 2%;
+    text-align: left;
+    padding-left: 2%;
 }
 h1{
     font-size: 50px;
@@ -22,6 +22,9 @@ h2{
     text-align: center;
     padding-top: 5vh;
     padding-bottom: 3vh;
+}
+h3{
+    padding: 2%
 }
 h5{
     text-align: center;
@@ -92,7 +95,9 @@ nav {
     position: absolute;
     top: 10%;
     width: 100%;
-    text-align: center;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 5%;
 }
 #ux{
     color: white;
@@ -111,6 +116,21 @@ nav {
     font-size: 18px;
 }
 
+/* Abilis Header */
+
+#aHeader{
+    width: 10%;
+    height: auto;
+    margin: left;
+    display: block;
+}
+/** Content */
+#userPersona{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
 /** Footer */
 
 footer {
