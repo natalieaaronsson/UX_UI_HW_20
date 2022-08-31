@@ -131,6 +131,29 @@ nav {
     margin: auto;
     display: block;
 }
+#lowFi{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block; 
+}
+.list-group{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#styleGuide{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding-top: 4%;
+}
+#highFi{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
 /** Footer */
 
 footer {
